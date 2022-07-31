@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 38
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 15
     },
     {
       "id": 3,
@@ -47,6 +47,96 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "1",
+      "image": "1",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "2",
+      "image": "2",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "1",
+      "image": "1",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "5",
+      "image": "5",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "7",
+      "image": "7",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "8",
+      "image": "8",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "9",
+      "image": "9",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "10",
+      "image": "10",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Peter",
+      "image": "1",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "Peter",
+      "image": "2",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "pere",
+      "image": "2",
+      "likes": 3,
+      "id": 19
+    },
+    {
+      "name": "pit",
+      "image": "7",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "pity",
+      "image": "7",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "name": "ity",
+      "image": "3",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "name": "10",
+      "image": "15",
+      "likes": 15,
+      "id": 23
     }
   ]
 }
